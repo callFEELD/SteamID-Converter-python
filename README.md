@@ -1,5 +1,7 @@
-# SteamID-python
+# SteamID-Converter-python
 A python class that helps you convert the different user steam id types from one to another.
+
+This scripts **don't** need a internetconnection. It will **calculate** the steam id's.
 
 Important this class only works with steam ids of users.
 Other Types of steam accounts (https://developer.valvesoftware.com/wiki/SteamID#Types_of_Steam_Accounts)
@@ -18,6 +20,8 @@ This scripts support those kind of steam IDs:
 |   Steam ID3    | U:1:80741495 or [U:1:80741495]   |
 |   Steam32 ID   | 80741495                         |
 |   Steam64 ID   | 76561198041007223                |
+
+
 
 ## example code
 ```python
