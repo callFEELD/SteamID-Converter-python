@@ -1,7 +1,7 @@
 # SteamID-Converter-python
 A python class that helps you convert the different user steam id types from one to another.
 
-This script **don't** need an internet connection. It will **calculate** the steam id's.
+This script **doesn't** need an internet connection. It will **calculate** the steam id's.
 
 Important: This class only works with steam ids of users.
 Other Types of [steam accounts](https://developer.valvesoftware.com/wiki/SteamID#Types_of_Steam_Accounts)
